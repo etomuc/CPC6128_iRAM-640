@@ -35,6 +35,16 @@ For a full assembly you need
 - basic soldering skills - as long as you can solder normal through hole components reliably, you will be fine.
 - an option to program ATF16V8 CPLDs. This can e.g. be done with some cheap and widely available EPROM programmers like the TL866-II or the T48. The required JED files can be found in the Files directory. 
 
+### Disclaimer
+
+**USE AT YOUR OWN RISK.**
+
+This is a hobby project, I am a hobbyist and no engineer. There is always the risk that the expansion can cause harm to your CPC. 
+
+Although I have tested the expansion on several CPCs for many hours there is no guarantee that it will properly work under all circumstances, with all expansions or with all revisions of the CPC 6128. 
+
+**USE AT YOUR OWN RISK.** 
+
 ### Bill of Materials
 
 | Part | Quantity |
