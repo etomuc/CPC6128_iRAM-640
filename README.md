@@ -25,7 +25,7 @@ It is released under the CC BY-NC-ND 4.0 license with the following exception: C
 
 ## Support
 
-There is no support. If you have any questions feel free to join the "Technical support - Hardware related" board on the cpcwiki.eu forum.
+There is no official support. If you have any questions feel free to join the "Technical support - Hardware related" board on the cpcwiki.eu forum.
 
 ## Building the expansion
 
