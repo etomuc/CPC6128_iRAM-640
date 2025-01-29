@@ -4,7 +4,7 @@ The iRAM/640 is an internal RAM expansion for the Amstrad CPC 6128 which upgrade
 
 <img src="/pictures/Iram640_builtin.jpg" width="640"/>
 
-Legacy software that supports the DK'Tronics memory standard will be able to access up to 576K of RAM (the maximum suppored by DK'Tronics). More recent software, like e.g. SymbOS, with support for the enhanced Yarek/RAM7 standard will see the full 640K. 
+Legacy software that supports the DK'Tronics memory standard will be able to access up to 576K of RAM ([the maximum suppored by DK'Tronics](https://www.cpcwiki.eu/index.php/Standard_Memory_Expansions#Standard_128K-512K_Expansions_.28dk.27tronics.2Fdobbertin-style.29)). More recent software, like e.g. SymbOS, with support for the [enhanced Yarek/RAM7 standard](https://www.cpcwiki.eu/index.php/Standard_Memory_Expansions#Extended_1M-4M_Expansions_.28RAM7.2FYarek-style.29) will see the full 640K. 
 
 ## Goals
 
@@ -113,3 +113,11 @@ Turn on the CPC - and enjoy!
 
 > [!NOTE]
 > The CPCs boot message is hard coded in ROM so it will continue to show "128K". To test the expansion you can e.g. use the [Amstrad diagnostics](https://github.com/llopis/amstrad-diagnostics).
+
+## Thanks
+
+Special thanks go to
+- Bryce - your willingness to share your knowledge with the community was a great help - without it I would have never even considered doing any electronics. I learned so much! 
+- Bread80 - without your [documentation of the RAM logic in the CPC](https://bread80.com/2021/06/03/understanding-the-amstrad-cpc-video-ram-and-gate-array-subsystem/), this would not have been possible
+- Prodatron - thanks a lot for your support and providing the source code that allowed me to find the RAM banking issue. (And your [SymbOS](http://www.symbos.de/) is the best reason to get 640K anyway)
+- Toto - for your encouraging messages and support
