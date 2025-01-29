@@ -67,9 +67,9 @@ Preparations:
 
 2) Program the ATF16V8 CPLDs with your programmer. Make sure to mark each one so you can later identify PAL1 and PAL2.
 
-####Step 1: 
+**Step 1:**
 
-Solder all components on the bottom side of the PCB. The "disable" connector is optional and only required if you plan to disable the expansion using a switch from outside of the computer. 
+Add the pin headers and the resistor on the bottom side of the PCB. The "disable" connector is optional and only required if you plan to disable the expansion using a switch from outside of the computer. 
 
 <img src="/pictures/assembly1.jpg" width="640"/>
 
@@ -78,13 +78,13 @@ Solder all components on the bottom side of the PCB. The "disable" connector is 
 
 Cut the pins of the pin header on the top of the PCB closely to the PCBs surface.
 
-####Step 2: 
+**Step 2:**
 
 Solder all ICs on top of the PCB. Don't mix up the position of both PAL ICs. 
 
 <img src="/pictures/assembly3.jpg" width="640"/>
 
-####Step 3: 
+**Step 3:**
 
 Solder the IC socket and then the remaining components on top of the PCB. 
 
@@ -93,7 +93,7 @@ Solder the IC socket and then the remaining components on top of the PCB.
 > [!IMPORTANT]
 > Due to the tight packing of all components it's easy to accidentally add shorts or create a cold solder joint. Be careful when soldering and better check all connections twice. 
 
-####Step 4:
+**Step 4:**
 
 Gently remove the CPU from its socket on the CPC motherboard and insert it into the CPU socket on the expansion. Now insert the expansion into the CPU socket on the motherboard.
 
