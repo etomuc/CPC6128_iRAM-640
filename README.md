@@ -2,6 +2,8 @@
 
 The iRAM/640 is an internal RAM expansion for the Amstrad CPC 6128 which upgrades the computer to a total of 640KB - five times the amount of the original 128KB. 
 
+<img src="/pictures/Iram640_builtin.jpg" width="640"/>
+
 Legacy software that supports the DK'Tronics memory standard will be able to access up to 576K of RAM (the maximum suppored by DK'Tronics). More recent software, like e.g. SymbOS, with support for the enhanced Yarek/RAM7 standard will see the full 640K. 
 
 ## Goals
