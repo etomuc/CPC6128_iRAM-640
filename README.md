@@ -82,7 +82,7 @@ Cut the pins of the pin header on the top of the PCB closely to the PCBs surface
 
 Solder all ICs on top of the PCB. Don't mix up the position of both PAL ICs. 
 
-<img src="/pictures/assembly3.jpg" width="640"/>
+<img src="/pictures/assembly2.jpg" width="640"/>
 
 **Step 3:**
 
