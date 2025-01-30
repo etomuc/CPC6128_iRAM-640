@@ -41,7 +41,9 @@ For a full assembly you need
 >**USE AT YOUR OWN RISK.**
 >
 >This is a hobby project, I am a hobbyist and no engineer. There is always the risk that the expansion can cause harm to your CPC. 
->Although I have tested the expansion on several CPCs for many hours there is no guarantee that it will properly work under all circumstances, with all expansions or with all revisions of the CPC 6128. 
+>Although I have tested the expansion on several CPCs for many hours with many other expansions and lots of software, there is no guarantee that it will properly work under all circumstances, with all expansions or with all revisions of the CPC 6128.
+>
+> Especially if you are building this for others (commercially or not) make sure to make your own intense tests to guarentee this expansion works as expected before handing over to the recipients.  
 >
 >**USE AT YOUR OWN RISK.** 
 
