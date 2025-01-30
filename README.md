@@ -73,6 +73,8 @@ Order PCB here: https://www.pcbway.com/project/shareproject/CPC_iRAM640_internal
 
 or use the Gerber files from the files folder to order from your preferred PCB manufacturer. 
 
+The expansion is a tight fit in the CPC therefore I would recommend to order 1mm thick PCBs.
+
 ### Assembly
 
 Preparations:
