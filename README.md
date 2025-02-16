@@ -77,13 +77,14 @@ The expansion is a tight fit in the CPC therefore I would recommend to order 1mm
 
 ### Assembly
 
+> [!TIP]
+> The height in the CPC 6128 is limited so it's necessary to solder the ICs directly to the board (except for the CPU which can be put into a socket). However, especially if you have to order several PCBs anyway, it could be a good idea to build one version with all IC sockets. This allows you to test the ICs and make sure everything is working before soldering them permanently to another PCB. (For a quick IC test a board usually also doesn't need the 10uF capacitor and the resistor.)
+
 Preparations:
 
 1) Some pin headers need to be adjusted slightly as usually one side of the pin headers is too short and the other too long. You can move the plastic bar with e.g. pliers easily. Move them until the plastic bar almost reaches the mid of the pin header. One side should be slightly shorter than the other side. The short side will be the one that is later plugged into the CPU socket on the motherboard.
 
-2) The height in the CPC 6128 is limited so it's necessary to solder the ICs directly to the board (except for the CPU which can be put into a socket). However, especially if you have to order several PCBs anyway, it could be a good idea to build one version with all IC sockets. This allows you to test the ICs and make sure everything is working before soldering them permanently to another PCB. (For a quick IC test a board usually also doesn't need the 10uF capacitor and the resistor.)
-
-3) Program the ATF16V8 CPLDs with your programmer. Make sure to mark each one so you can later identify PAL1 and PAL2.
+2) Program the ATF16V8 CPLDs with your programmer. Make sure to mark each one so you can later identify PAL1 and PAL2.
 
 **Step 1:**
 
