@@ -56,7 +56,7 @@ For a full assembly you need
 | 74HCT174 or 74LS174 | x1 |
 | AS6C4008-55 | x1 |
 | Capacitor 100nF 104 2.56mm | x4 |
-| Capacitor 22uF - 2.56mm - 5mm height | x1 |
+| Capacitor 10uF (or 22uF) - 2.56mm - 5mm height | x1 |
 | Resistor 4.7k | x1 |
 | IC socket 40pin | x1 |
 | Pin Header 1x20 | x2 |
