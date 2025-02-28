@@ -49,6 +49,10 @@ For a full assembly you need
 
 ### Bill of Materials
 
+> [!IMPORTANT]
+> If someone figures out all the component IDs from e.g. Mouser or Digikey, please share the list so I can add it here.
+
+
 | Part | Quantity |
 | --- | --- |
 | PCB | x1 |
@@ -62,10 +66,11 @@ For a full assembly you need
 | Pin Header 1x20 | x2 |
 | XH2.54 Pin male right angle - or Pin Header 1x2 (optional) | x1 |
 
-<img src="/pictures/bom.jpg" width="640"/>
-
 > [!IMPORTANT]
 > Make sure to buy all ICs in DIP format.
+
+<img src="/pictures/bom.jpg" width="640"/>
+
 
 ### PCB
 
