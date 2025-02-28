@@ -63,11 +63,13 @@ For a full assembly you need
 | Capacitor 10uF (or 22uF) - 2.56mm - 5mm height | ?? | x1 |
 | Resistor 4.7k | | x1 |
 | IC socket 40pin | 571-1-2199299-5 | x1 |
-| Pin Header 1x20 | e.g. 517-2320-6121 or  200-TS120TAA | x2 |
-| Pin Header 1x2 (optional) | 538-90121-0122 alternative: 306-S2B-XH-ALFSN | x1 |
+| Pin Header 1x20 | e.g. 517-2320-6121 (normal)<br>or  200-TS120TAA (precise)| x2 |
+| Pin Header 1x2 (optional) | 538-90121-0122 <br>alternative: 306-S2B-XH-ALFSN | x1 |
 
 > [!IMPORTANT]
 > Make sure to buy all ICs in DIP format.
+>
+> Pin Header: normal pin headers put some strain on the socket. Especially if you plan to remove the expansion again, consider the precise pin headers. However those break easily when not put into the socket gently and perfectly aligned. 
 
 <img src="/pictures/bom.jpg" width="640"/>
 
