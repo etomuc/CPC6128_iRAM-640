@@ -53,7 +53,7 @@ For a full assembly you need
 > Mouser IDs are not verfified yet. If someone had a list of all the component IDs from e.g. Mouser or Digikey, please share the list so I can add it here.
 
 
-| Part | Mouser No. | Quantity |
+| Part | Mouser No. (example, not verified yet) | Quantity |
 | --- | --- | --- |
 | PCB | n/a | x1 |
 | ATF16V8 | 556-AF16V8B15PU | x2 |
