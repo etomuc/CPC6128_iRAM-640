@@ -50,21 +50,21 @@ For a full assembly you need
 ### Bill of Materials
 
 > [!IMPORTANT]
-> If someone figures out all the component IDs from e.g. Mouser or Digikey, please share the list so I can add it here.
+> Mouser IDs are not verfified yet. If someone had a list of all the component IDs from e.g. Mouser or Digikey, please share the list so I can add it here.
 
 
-| Part | Quantity |
-| --- | --- |
-| PCB | x1 |
-| ATF16V8 | x2 |
-| 74HCT174 or 74LS174 | x1 |
-| AS6C4008-55 | x1 |
-| Capacitor 100nF 104 2.56mm | x4 |
-| Capacitor 10uF (or 22uF) - 2.56mm - 5mm height | x1 |
-| Resistor 4.7k | x1 |
-| IC socket 40pin | x1 |
-| Pin Header 1x20 | x2 |
-| XH2.54 Pin male right angle - or Pin Header 1x2 (optional) | x1 |
+| Part | Mouser No. | Quantity |
+| --- | --- | --- |
+| PCB | n/a | x1 |
+| ATF16V8 | 556-AF16V8B15PU | x2 |
+| 74HCT174 or 74LS174 | 595-CD74HCT174E | x1 |
+| AS6C4008-55 | 913-AS6C4008-55PIN | x1 |
+| Capacitor 100nF 104 2.56mm | 581-AR155C104K4R | x4 |
+| Capacitor 10uF (or 22uF) - 2.56mm - 5mm height | ?? | x1 |
+| Resistor 4.7k | | x1 |
+| IC socket 40pin | 571-1-2199299-5 | x1 |
+| Pin Header 1x20 | e.g. 517-2320-6121 or  200-TS120TAA | x2 |
+| Pin Header 1x2 (optional) | 538-90121-0122 | x1 |
 
 > [!IMPORTANT]
 > Make sure to buy all ICs in DIP format.
