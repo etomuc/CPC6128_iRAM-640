@@ -69,7 +69,7 @@ For a full assembly you need
 > [!IMPORTANT]
 > Make sure to buy all ICs in DIP format.
 >
-> Pin Header: normal pin headers put some strain on the socket. Especially if you plan to remove the expansion again, consider the precise pin headers. However those break easily when not put into the socket gently and perfectly aligned. 
+> 1x20 Pin Header: normal pin headers put some strain on the socket. Especially if you plan to remove the expansion again, consider the precise pin headers. However those break easily when not put into the socket gently and perfectly aligned. 
 
 <img src="/pictures/bom.jpg" width="640"/>
 
