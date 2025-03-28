@@ -22,7 +22,7 @@ Main goals of this expansions were:
 
 The expansion and all resources are free to use for personal use.
 
-It is released under the CC BY-NC-ND 4.0 license with the following exception: Commercial production and selling is permitted (and encouraged) as long as the final product will be sold for a maximum of USD 35 / €35 / £32 or the equivalent in other currencies (excl. shipping). 
+It is released under the CC BY-NC-ND 4.0 license with the following exception: Commercial production and selling is permitted (and encouraged) as long as the final product will be sold for a maximum of USD 35 / €35 / £32 or the equivalent in other currencies (excl. shipping and fees like Ebay fees). 
 <sub>Considering the cost of the components (especially when bought in quantities) and the time required for the assembly, this should be sufficient for an interesting profit margin while keeping the expansion affordable for the community.</sub> 
 
 ## Support
