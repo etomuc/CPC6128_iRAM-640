@@ -67,6 +67,9 @@ For a full assembly you need
 | Pin Header 1x20 | e.g. 517-2320-6121 (normal)<br>or  200-TS120TAA (precise)| x2 |
 | optional:<br>Pin Header 1x2 angled<br>or JST XH 2.5mm Pin male right angle| 538-90121-0122 <br>JST: 306-S2B-XH-ALFSN | x1 |
 
+Order List from Reichelt/Germany: https://www.reichelt.de/my/2247546 (list not verfified yet, please let me know if this works out for you)
+​ 
+
 > [!IMPORTANT]
 > Make sure to buy all ICs in DIP format.
 >
