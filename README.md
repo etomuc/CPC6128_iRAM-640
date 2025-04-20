@@ -99,9 +99,12 @@ Preparations:
 
 **Step 1:**
 
-Add the pin headers and the resistor on the bottom side of the PCB. The "disable" connector is optional and only required if you plan to disable the expansion using a switch from outside of the computer. 
+Add the pin headers and the resistor on the bottom side of the PCB. 
 
 <img src="/pictures/assembly1.jpg" width="640"/>
+
+<sup>The "disable" connector on this picture has been moved to the side of the PCB in the current board revision and no longer needs to be soldered on the bottom of the PCB. 
+It's still optional and only required if you plan to disable the expansion using a switch from outside of the computer.</sup> 
 
 > [!TIP]
 > To easily align the pin headers you can insert them into the CPU socket before soldering. This keeps them nicely in place and aligned.
