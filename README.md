@@ -128,7 +128,7 @@ Solder the IC socket and then the remaining components on top of the PCB.
 
 **Step 4:**
 
-Gently remove the CPU from its socket on the CPC motherboard and insert it into the CPU socket on the expansion. Now insert the expansion into the CPU socket on the motherboard.
+Gently remove the CPU from its socket on the CPC motherboard and insert it into the CPU socket on the expansion. Now insert the expansion into the CPU socket on the motherboard (also gently, but usually needs a bit of force to properly snap into the socket).
 
 Turn on the CPC - and enjoy!
 
