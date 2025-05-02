@@ -142,4 +142,4 @@ Special thanks go to
 - Bread80 - without your [documentation of the RAM logic in the CPC](https://bread80.com/2021/06/03/understanding-the-amstrad-cpc-video-ram-and-gate-array-subsystem/), this would not have been possible
 - Prodatron - thanks a lot for your support and providing the source code that allowed me to find the RAM banking issue. (And your [SymbOS](http://www.symbos.de/) is the best reason to get 640K anyway)
 - Toto - for your encouraging messages and your ideas and support
-- the generous Ebay buyers of the first 4 final expansions - your purchase helped a lot to refinance the development costs of this expansion. (for anyone wondering: the initial 4 items will be the only ones ever sold by me and they came with a special certificate of authenticity - only those are legit first batch items)
+- the generous Ebay buyers of the first 4 final expansions - your purchase helped a lot to refinance the development costs of this expansion. (Those 4 items are the only ones sold with a special certificate of authenticity - only those are legit first batch items)
