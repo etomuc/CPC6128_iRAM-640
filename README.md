@@ -60,7 +60,7 @@ For a full assembly you need
 | ATF16V8 | 556-AF16V8B15PU | x2 |
 | 74HCT174 or 74LS174 | 595-CD74HCT174E | x1 |
 | AS6C4008-55 | 913-AS6C4008-55PIN | x1 |
-| Capacitor 100nF 104 2.56mm | 581-AR155C104K4R | x4 |
+| Capacitor 100nF 104 2.5mm | 581-AR155C104K4R | x4 |
 | Capacitor 10uF (or 22uF) - 2.0mm - 5mm height | e.g. 598-106SVF025M  | x1 |
 | Resistor 4.7k | | x1 |
 | IC socket 40pin | 571-1-2199299-5 | x1 |
