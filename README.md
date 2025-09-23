@@ -73,7 +73,7 @@ Order List from Reichelt/Germany: https://www.reichelt.de/my/2247546 (list not v
 > [!IMPORTANT]
 > Make sure to buy all ICs in DIP format.
 >
-> 1x20 Pin Header: normal pin headers put some strain on the socket. Especially if you plan to remove the expansion again, consider the precise pin headers. However those break easily when not put into the socket gently and perfectly aligned. 
+> 1x20 Pin Header: normal pin headers put some strain on the socket which could end in a socket that can no longer hold the plain CPU. Especially if you plan to remove the expansion again, make sure to use precise pin headers. However those break more easily, especially when not put into the socket gently and straight.
 
 <img src="/pictures/bom.jpg" width="640"/>
 
