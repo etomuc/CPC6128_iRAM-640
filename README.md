@@ -64,7 +64,7 @@ For a full assembly you need
 | Capacitor 10uF (or 22uF) - 2.0mm - 5mm height | e.g. 598-106SVF025M  | x1 |
 | Resistor 4.7k | | x1 |
 | IC socket 40pin | 571-1-2199299-5 | x1 |
-| Pin Header 1x20 | e.g. 517-2320-6121 (normal)<br>or  200-TS120TAA (precise)| x2 |
+| Pin Header 1x20 | e.g. 200-TS120TAA (precise)| x2 |
 | optional:<br>Pin Header 1x2 angled<br>or JST XH 2.5mm Pin male right angle| 538-90121-0122 <br>JST: 306-S2B-XH-ALFSN | x1 |
 
 Order List from Reichelt/Germany: https://www.reichelt.de/my/2247546 (list not verfified yet, please let me know if this works out for you)
