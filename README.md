@@ -29,6 +29,17 @@ It is released under the CC BY-NC-ND 4.0 license with the following exception: C
 
 There is no official support. If you have any questions feel free to join the "Technical support - Hardware related" board on the cpcwiki.eu forum.
 
+### Known issues
+
+So far no issues have been reported. 
+
+If you experience any faulty or strange behaviour you can check these common culprits:
+
+- Lack of connection in the CPU socket: Remove the expansion and put it back in. Might take 2 or 3 times sometimes and all of a sudden it works. Make sure the expansion is put properly into the socket. There is a bit of resistance and it really needs to snap in to make proper contact. Also check if your CPU socket shows any sign of even minimal corrosion. Clean the CPU socket properly in that case (e.g. with a glass fiber pen).
+- Cold solder joints: resolder all solder joints even if all looks good. Often a colder solder is unnoticed and any missing signal will cause issues.
+- Malfunctioning ICs: make sure all ICs are properly working. If you don't have proper test equipment it's a best practice to build one expansion with sockets for testing the ICs before soldering them into the final PCB. Especially if you have chosen cheap sources for your ATF ICs it is a typical issue that they validate in the programmer but then fail in circuit. 
+
+
 ## Building the expansion
 
 For a full assembly you need 
