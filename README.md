@@ -1,5 +1,9 @@
 # CPC6128 iRAM/640
 
+> [!TIP]
+> PCBs can be ordered at [PCBWay](https://www.pcbway.com/project/shareproject/CPC_iRAM640_internal_RAM_expansion_for_the_Amstrad_CPC_6128_5a46d826.html) with a few clicks. Recommended PCB thickness is 1.0mm.
+
+
 The iRAM/640 is an internal RAM expansion for the Amstrad CPC 6128 which upgrades the computer to a total of 640KB - five times the amount of the original 128KB. 
 
 <img src="/pictures/Iram640_builtin.jpg" width="640"/>
